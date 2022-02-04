@@ -7,6 +7,7 @@ Steps: 1. Firstly I have created 4 yaml files
       D) mysql-secret.yaml 
 
 2. Clone the repository on Katacoda Kubernetes
+	
 	git clone https://github.com/swapnilandhare/MYSQL-node-on-Kubernetes-using-Kubernetes-Artifacts.git 
 
 3. Creating a namespace $ kubectl create namespace mysql
